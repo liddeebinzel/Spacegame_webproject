@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/GroupProject1/TheSpaceGame/_apis/build/status/liddeebinzel.Spacegame_webproject?branchName=main)](https://dev.azure.com/GroupProject1/TheSpaceGame/_build/latest?definitionId=1&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
